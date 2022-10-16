@@ -1,5 +1,0 @@
-surname = input("Enter your surname: ")
-house_num = input("Enter your house number: ")
-road = input("Enter your road name: ")
-town = input("Enter your town: ")
-print("Mr and Mrs {},\n{}, {} \n{}".format(surname,house_num,road,town))
