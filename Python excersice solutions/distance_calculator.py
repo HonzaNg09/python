@@ -1,0 +1,5 @@
+u = float(input('Enter the initial velocity: '))
+t = float(input('Enter the amount of time taken: '))
+a = float(input('Enter the acceleration: '))
+s = (u*t) + (1/2 * a * t**2)    
+print('The distance travelled by an object is: '+str(s))
